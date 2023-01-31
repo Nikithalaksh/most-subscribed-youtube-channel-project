@@ -17,8 +17,13 @@ Using the seaborn, I was able to represent the data in the form of counterplot, 
 ##Graphical Representation:
 
 Showcased the data first in counterplot to see the subscribers for each category.
+
 Then, for easy representation I brought in the pie chart using plotly and categorised the channels.
+
 I identified the start year of the Youtube cannels and represented through pointplot.
+
 Next, found the first five most subscribed channels and illustrated through barplot.
+
 I compared the rank,subscribers and started year and demonstrated through the pairplot.
+
 Finally, the heatmap which I used is for understanding the correlation of values using the colour-coding.
